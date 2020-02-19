@@ -2,7 +2,7 @@
 // @name        Cashback Reminder Enhanced
 // @description A reminder to check for cashback before completing a purchase online.
 // @namespace   Cashback_Reminder_Enhanced
-// @version     2018.11.21
+// @version     2020.02.19
 // @author      Phreeker, dartraiden
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // @match       https://www.amazon.co.uk/gp/buy/*
